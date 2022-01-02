@@ -1,1 +1,1 @@
-# Epidemic-Sim
+Simulation which models the spread of a virus by changing parameters such as Social Distancing, Quarantince, Infection probability, radius and Chance. Based on 1999 Craig Reynold's steering behaviours
